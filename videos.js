@@ -25,4 +25,5 @@ const VIDEOS = {
   'magic-bounce': 'video/magic-bounce.webm',
   'magic-bounce-pro': 'video/magic-bounce-pro.webm',
   'doggy-pull': 'video/doggy-pull.webm',
+  'magic-bob': 'video/magic-bob.webm',
 };
